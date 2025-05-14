@@ -11,7 +11,7 @@ This Power BI project visualizes business data to track sales, product performan
 - Make data-driven decisions with clear, insightful visuals
 
 ## Dataset Used
-- [Dataset](https://github.com/Haseena200/Bike-Sales-Dashboard/blob/main/powerbi-1.pbix)
+- [Dataset](https://github.com/Haseena200/Bike-Sales-Dashboard/blob/main/poweri1.pbix)
 
 ## Questions
 - What are the monthly and yearly sales trends?
