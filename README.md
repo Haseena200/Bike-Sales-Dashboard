@@ -34,7 +34,7 @@ This Power BI project visualizes business data to track sales, product performan
 - Underperforming Category: Product Category Y lagged in sales and may need a marketing review.
 - Sales Channel Insight: Direct channel had higher profit margins than reseller networks.
   
-Conclusion:
+## Conclusion:
 - The Power BI Bike Sales Dashboard offers a detailed and interactive view of business performance. It highlights strong seasonal trends, top-performing regions, and valuable customer segments. Decision-makers can use this dashboard to optimize inventory, marketing strategies, and customer retention efforts.
   
 ![Screenshot 2025-05-14 121340](https://github.com/user-attachments/assets/60687796-4023-4bb7-a0c2-c07e72dff538)
